@@ -1,4 +1,4 @@
-# [Netlify Live Link](fashion-blog-cm.netlify.app)
+# [Netlify Live Link](https://fashion-blog-cm.netlify.app)
 
 # [Github pages Live Link](https://cmcgill436.github.io/Fashion-Blog/)
 
